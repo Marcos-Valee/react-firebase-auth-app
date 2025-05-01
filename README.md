@@ -3,7 +3,9 @@
 Este repositório contém um **projeto acadêmico** desenvolvido como parte de uma atividade para aprendizado de React e integração com Firebase.
 
 ## 🌟 Demonstração
-Adicione aqui capturas de tela ou um link para o deploy do projeto (ex.: Vercel ou Netlify).
+![Pré-visualização do site](./public/screenshot.png)
+
+Confira o projeto online: [React com Firebase - Deploy no Netlify](https://react-firebase-marcos-vale.netlify.app/)
 
 ## ✨ Funcionalidades
 - 📝 **Cadastro de Usuários**: Criação de usuários com e-mail, senha, nome, sobrenome e data de nascimento. Os dados são armazenados no Firebase Authentication e Firestore.
