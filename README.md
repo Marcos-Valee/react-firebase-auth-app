@@ -3,7 +3,7 @@
 Este repositório contém um **projeto acadêmico** desenvolvido como parte de uma atividade para aprendizado de React e integração com Firebase.
 
 ## 🌟 Demonstração
-![Pré-visualização do site](./public/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Marcos-Valee/react-firebase-auth-app/main/src/components/images/foto.png)
 
 Confira o projeto online: [React com Firebase - Deploy no Netlify](https://react-firebase-marcos-vale.netlify.app/)
 
